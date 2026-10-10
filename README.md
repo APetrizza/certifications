@@ -1,5 +1,9 @@
 # Certifications – Alessandro Petrizza
 
-- [Ansys STK Certified – Level 1](Ansys_STK_Level1.pdf)
-- [Ansys STK Certified – Level 2 (Master & Integration)](Ansys_STK_Level2_Master_Integration.pdf)
-- [NASA ARSET – Fundamentals of Remote Sensing (2026)](NASA_ARSET_Remote_Sensing_2026.pdf)
+## Ansys STK
+- [STK Certified – Level 1](Alessandro-Petrizza-STKCertification_L1.pdf)
+- [STK Certified – Level 2: Master](Alessandro-Petrizza-Level-2--STK-Master-Certification-Test.pdf)
+- [STK Certified – Level 2: Integration](Alessandro-Petrizza-Level-2--STK-Master-Integration-Certification.pdf)
+
+## Unmanned Aircraft Systems
+- [EASA UAS Pilot – A1/A3](UAS-A1-A3-certificate-11733223.pdf)
